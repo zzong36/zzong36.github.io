@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zzong36/zzong36.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 이서경의 github 홈페이지
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. 본인 소개 
 
-### Markdown
+안녕하세요 개발자 이서경입니다
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|이름 |이서경|![gdKO](/gdko.jpg)|
+|연락처 | seokyung613@naver.com|
+|skill set| Frontend -|
+| | Backend - Java, |
+|자격증|
+||  |
+|수상| 
+|특기사항|  TOEIC 985 |
+||  리니지 만랩 |
 
-```markdown
-Syntax highlighted code block
+## 2. 나의 유튜브입니다
+나의 소개 동영상입니다.
+<iframe width="901" height="479" src="https://www.youtube.com/embed/fCC2SRMziJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 3. IT 경험
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzong36/zzong36.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+||과목 |기간|개요 |
+|1|[git](https://heejinlee-kopo.github.io/subject)|20xx년 3월|git 사용법 |
+|2|[java](https://heejinlee-kopo.github.io/subject)|20xx년 3월|java 기초|
+|3|[SQL](https://heejinlee-kopo.github.io/subject)|20xx년 4월|sql 기초 |
+|||||
+|||||
+|||||
