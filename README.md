@@ -5,15 +5,13 @@
 
 안녕하세요 개발자 이서경입니다
 
-|이름 |이서경|![gdKO](/gdko.jpg)|
-|연락처 | seokyung613@naver.com|
-|skill set| Frontend -|
-| | Backend - Java, |
-|자격증|
-||  |
-|수상| 
-|특기사항|  TOEIC 985 |
-||  리니지 만랩 |
+|이름 |이서경|![gdKO](/gdko.jpg)| <br>
+|연락처 | seokyung613@naver.com| <br>
+|skill set| Frontend -| <br>
+| | Backend - Java, | <br>
+|자격증| <br>
+|수상| <br>
+|특기사항|  TOEIC 985 | <br>
 
 ## 2. 나의 유튜브입니다
 나의 소개 동영상입니다.
