@@ -21,7 +21,7 @@
  
 
 <br>
-## 3. IT 경험
+## 3. IT 경험 <br>
 
 ||과목 |기간|개요 |
 |1|[git](https://zzong36.github.io/git/)|20xx년 3월|git 사용법 |
