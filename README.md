@@ -5,7 +5,7 @@
 
 안녕하세요 개발자 이서경입니다
 
-|이름 |이서경|![gdKO](/gdko.jpg)| <br>
+|이름 |이서경| <br>
 |연락처 | seokyung613@naver.com| <br>
 |skill set| Frontend -| <br>
 | | Backend - Java, | <br>
