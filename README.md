@@ -24,9 +24,9 @@
 ## 3. IT 경험
 
 ||과목 |기간|개요 |
-|1|[git](https://github.com/zzong36/git.git)|20xx년 3월|git 사용법 |
-|2|[java](https://github.com/zzong36/git.git)|20xx년 3월|java 기초|
-|3|[SQL](https://github.com/zzong36/git.git)|20xx년 4월|sql 기초 |
+|1|[git](https://zzong36.github.io/git/)|20xx년 3월|git 사용법 |
+|2|[java](https://zzong36.github.io/git/)|20xx년 3월|java 기초|
+|3|[SQL](https://zzong36.github.io/git/)|20xx년 4월|sql 기초 |
 |||||
 |||||
 |||||
